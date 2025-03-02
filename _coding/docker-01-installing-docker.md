@@ -1,3 +1,15 @@
+---
+layout: post
+title: "Installing Docker"
+excerpt: ""
+modified: 2017-11-22T14:17:25-04:00
+categories: Docker
+subcategory: "01 - using container"
+tags: [Docker, using-container]
+comments: true
+share: true
+---
+
 Docker consists of three programs: Docker Daemon, API and CLI
 Installing Docker gives us the access to its command line interface (CLI) and we will interact to Docker through its CLI.
 

@@ -3,8 +3,9 @@ layout: post
 title: "Jupyter Notebooks in VS Code"
 excerpt: ""
 modified: 2017-11-22T14:17:25-04:00
-categories: blog
-tags: [Windows Services, MySQL]
+categories: Docker
+subcategory: "01 - using container"
+tags: [Docker, using-container]
 comments: true
 share: true
 ---
