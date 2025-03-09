@@ -47,6 +47,8 @@ links:
 collections:
   coding:
     output: true
+    permalink: /coding/:title/
+    categories: true
   articles:
     output: true
 
@@ -61,7 +63,7 @@ kramdown:
   extensions: ["strikethrough"]
   
 # https://github.com/mojombo/jekyll/wiki/Permalinks
-permalink:   /:categories/:title/
+#permalink:   /:categories/:title/
 
 kramdown:
   auto_ids: true
