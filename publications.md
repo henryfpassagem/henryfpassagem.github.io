@@ -9,6 +9,11 @@ comments: false
 
 ### Journal Articles
 
+* **Two-photon cooling of calcium atoms.** <br />
+  Wojciech Adamczyk, Silvan Koch, Claudia Politi, **Henry Fernandes Passagem**, Christoph Fischer, Pavel Filippov, Florence Berterottière, Daniel Kienzler, Jonathan P. Home <br />
+  *Physical Review A, 111, 043101 (2025)*<br />
+  [[https://doi.org/10.1103/PhysRevA.111.043101](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.111.043101)]<br />
+
 * **Integration of a high finesse cryogenic build-up cavity with an ion trap.** <br />
   Oliver Wipfli, **Henry Fernandes Passagem**, Christoph Fischer, Matt Grau, Jonathan P. Home <br />
   *Reveview of Scientific Instruments, 94, 083204 (2023)*<br />
