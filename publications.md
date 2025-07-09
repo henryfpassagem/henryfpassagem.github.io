@@ -9,6 +9,7 @@ comments: false
 
 ### Journal Articles
 
+
 * **Two-photon cooling of calcium atoms.** <br />
   Wojciech Adamczyk, Silvan Koch, Claudia Politi, **Henry Fernandes Passagem**, Christoph Fischer, Pavel Filippov, Florence Berterottière, Daniel Kienzler, Jonathan P. Home <br />
   *Physical Review A, 111, 043101 (2025)*<br />
