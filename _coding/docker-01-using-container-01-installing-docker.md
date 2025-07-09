@@ -4,7 +4,7 @@ title: "Installing Docker"
 # excerpt: ""
 modified: 2017-11-22T14:17:25-04:00
 categories: Docker
-subcategory: "01 - using container"
+subcategory: 01 - using container
 tags: [Docker, using-container]
 comments: true
 share: true
