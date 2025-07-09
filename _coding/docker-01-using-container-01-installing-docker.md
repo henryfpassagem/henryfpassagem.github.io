@@ -23,13 +23,18 @@ To install Docker on Mac follow the steps [Installing docker on Mac](https://doc
 
 To guarantee we start the installation from scratch:
 
-`sudo apt-get remove docker* containerd runc`
+```sh
+sudo apt-get remove docker* containerd runc
+```
 
 or:
 
-`sudo apt-get remove docker\* containerd runc`
-
-`sudo apt-get remove 'docker*' containerd runc`
+```sh
+sudo apt-get remove docker\* containerd runc
+```
+```sh
+sudo apt-get remove 'docker*' containerd runc
+```
 
 However, Docker preserves information about images, containers, volumes and network in the `/var/lib/docker` folder. The commands above do not deleted these files.
 
@@ -83,6 +88,26 @@ sudo apt-get install docker-ce docker-ce-cli containerd.io
 #### 6. Add your user to the group of Docker users
 
 To avoid typing `sudo` for every Docker command, let's give the user permission:
+
+Let's first create a group called `docker`:
+
+```sh
+sudo groupadd docker
+```
+
+Then use the following command to add your user to the `docker` group:
+
+```sh
+sudo usermod -aG docker $USER
+```
+
+To activate the changes made in this group, execute:
+```sh
+newgrp docker
+```
+
+#### 7. Start Docker Daemon
+
 
 
 
