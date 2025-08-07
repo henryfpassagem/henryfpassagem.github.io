@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Installing Docker"
+title: "Installing Docker 2"
 # excerpt: ""
-# modified: 2017-11-22T14:17:25-04:00
+modified: 2017-11-22T14:17:25-04:00
 categories: Docker
-subcategory: 01 - using container
+subcategory: 02 - using container
 tags: [Docker, using-container]
 comments: true
 share: true

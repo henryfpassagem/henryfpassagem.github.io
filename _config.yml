@@ -32,6 +32,10 @@ links:
     url: /cv/
   - title: Coding
     url: /coding/
+  - title: Optics
+    url: /optics/
+  - title: Nanofabrication
+    url: /nanofabrication/
   - title: Articles
     url: /articles/
   - title: Projects
@@ -40,14 +44,16 @@ links:
     url: /readings/
   - title: Publications
     url: /publications/
-  - title: Tools
-    url: /tools/
 
 
 collections:
   coding:
     output: true
     permalink: /coding/:title/
+    categories: true
+  nanofabrication:
+    output: true
+    permalink: /nanofabrication/:title/
     categories: true
   articles:
     output: true
