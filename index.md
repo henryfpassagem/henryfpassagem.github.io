@@ -20,11 +20,12 @@ image:
 
 ### Who am I
 
-My name is Henry Fernandes Passagem. I am a currently a Reseach and Development Scientist at LSPR in Switzerland. My work covers mainly the development of micro-optics devices and nanofabrication on chip.
-
+My name is Henry Fernandes Passagem. I am graduated in Physics and currently work as a Process Engineer at flō Optics AG in Switzerland (Brugg AG).
 <br />
 
-Before I moved to my current position, I was a Post Doctorate in the Department of Physics at ETH Zürich. I also graduated with a degree in Physics from University of São Paulo in Brazil.
+Before my current position, I was a R&D-Scientist at LSPR AG in Switzerland where I developed of micro-optics devices and nanofabrication on silicon chip.
+
+When I moved to Switzerland in 2020, I worked as a Post-Doc in the Department of Physics at ETH Zürich.
 
 <br />
 
